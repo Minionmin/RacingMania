@@ -3,7 +3,7 @@
 <b>[Racing Mobile Game Development for Educational Purposes]</b>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    Welcome to my racing mobile game project, developed with an educational purpose in mind. The gameplay is simple yet challenging - the player controls a car and must avoid obstacles that have been set along the race track. By tapping the left and right sides of the screen, the player can steer the car in either direction. The longer the player lasts, the faster the car will go, but the score will also increment faster.
+    Welcome to my racing mobile game project. This project has been developed with an educational purpose in mind. The gameplay is simple yet challenging. The player controls a car and must avoid obstacles that have been set along the race track. By tapping the left and right sides of the screen, the player can steer the car in either direction. The longer the player lasts, the faster the car will go, but the score will also increment faster.
 
     
 <b>[Disclaimer]</b>
